@@ -1,0 +1,1903 @@
+[
+  {
+    "plant_id": "plant-0001",
+    "name": "가울테리아",
+    "scientific_name": "Gaultheria procumbens",
+    "category": "잎&꽃보기식물, 열매보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 가울테리아",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=12938&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0002",
+    "name": "개운죽",
+    "scientific_name": "Dracaena sanderiana 'Virens'",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "낮은 광도(300~800 Lux), 중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 흙의 수분을 유지하되 물에 잠기지 않게 관리한다. 겨울: 겉흙이 마르면 물을 충분히 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 개운죽",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=12954&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0003",
+    "name": "관엽베고니아",
+    "scientific_name": "Begonia spp.",
+    "category": "잎&꽃보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "연중: 겉흙이 마르면 물을 충분히 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 관엽베고니아",
+      "uri": "https://nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=12962&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0004",
+    "name": "관음죽",
+    "scientific_name": "Rhapis excelsa",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "낮은 광도(300~800 Lux), 중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 관음죽",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.mo?cntntsNo=12963&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0005",
+    "name": "구문초",
+    "scientific_name": "Pelargonium rosium",
+    "category": "잎&꽃보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 구문초",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=12966&menuId=PS00376",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0006",
+    "name": "구즈마니아",
+    "scientific_name": "Guzmania lingulata",
+    "category": "잎&꽃보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "연중: 겉흙이 마르면 물을 충분히 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 구즈마니아",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.mo?cntntsNo=12972&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0007",
+    "name": "군자란",
+    "scientific_name": "Clivia miniata",
+    "category": "잎&꽃보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 군자란",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=12974&detailSrch=&menuId=PS00376&pageIndex=2&pageSize=3&sDtlSrchText=&sText=&sType=sCntntsSj",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0008",
+    "name": "금목서",
+    "scientific_name": "Osmanthus fragrans",
+    "category": "잎&꽃보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "연중: 겉흙이 마르면 물을 충분히 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 금목서",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=12990&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0009",
+    "name": "금사철나무",
+    "scientific_name": "Euonymus japonica",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 금사철나무",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.mo?cntntsNo=12994&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0010",
+    "name": "금식나무",
+    "scientific_name": "Aucuba japonica var. variegata",
+    "category": "잎보기식물, 열매보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 금식나무",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=12998&menuId=PS00376",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0011",
+    "name": "금전수",
+    "scientific_name": "Zamioculcas zamiifolia",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 금전수",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=13186&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0012",
+    "name": "나도풍란",
+    "scientific_name": "Aerides japonica",
+    "category": "잎&꽃보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux)",
+      "watering": "연중: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "70% 이상",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 나도풍란",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=13202&detailSrch=&menuId=PS00376&pageIndex=1&pageSize=10&priceType=big&sDtlSrchFlclr=&sDtlSrchFmldecolr=&sDtlSrchGrwhstle=&sDtlSrchIgnSeason=&sDtlSrchLefcolr=&sDtlSrchLefmrk=&sDtlSrchLight=&sDtlSrchPriceType=&sDtlSrchText=%E3%84%B4&sDtlSrchType=sDtlSrchsCntntsSj&sDtlSrchWaterCycle=&sDtlSrchWinterLwet=&sText=&sType=sCntntsSj",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0013",
+    "name": "나한송",
+    "scientific_name": "Podocarpus macrophyllus",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 흙의 수분을 유지하되 물에 잠기지 않게 관리한다. 겨울: 겉흙이 마르면 물을 충분히 준다.",
+      "temperature": "10~15℃",
+      "humidity": null,
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 나한송",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=13203&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0014",
+    "name": "남천",
+    "scientific_name": "Nandina domestica",
+    "category": "잎보기식물, 열매보기식물",
+    "attributes": {
+      "light": "높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 남천",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=13206&menuId=PS00376",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0015",
+    "name": "대만고무나무",
+    "scientific_name": "Ficus retusa",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 대만고무나무",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=13333&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0016",
+    "name": "더피고사리",
+    "scientific_name": "Nephrolepis cordifolia 'Duffii'",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 흙의 수분을 유지하되 물에 잠기지 않게 관리한다. 겨울: 겉흙이 마르면 물을 충분히 준다.",
+      "temperature": "16~20℃",
+      "humidity": "70% 이상",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 더피고사리",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=13335&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0017",
+    "name": "데코라고무나무",
+    "scientific_name": "Ficus elastica var. decora",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 데코라고무나무",
+      "uri": "https://nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=13337&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0018",
+    "name": "도깨비고비",
+    "scientific_name": "Cyrtomium falcatum",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "낮은 광도(300~800 Lux), 중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 흙의 수분을 유지하되 물에 잠기지 않게 관리한다. 겨울: 겉흙이 마르면 물을 충분히 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40% 미만",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 도깨비고비",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=13339&detailSrch=&menuId=PS00376&pageIndex=1&pageSize=10&pageUnit=6&priceType=&sDtlSrchFlclr=&sDtlSrchFmldecolr=&sDtlSrchGrwhstle=&sDtlSrchIgnSeason=&sDtlSrchLefcolr=&sDtlSrchLefmrk=&sDtlSrchLight=&sDtlSrchPriceType=&sDtlSrchText=Z&sDtlSrchType=sDtlSrchsCntntsSj&sDtlSrchWaterCycle=&sDtlSrchWinterLwet=&sText=&sType=sCntntsSj",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0019",
+    "name": "돈나무",
+    "scientific_name": "Pittosporum tobira",
+    "category": "잎&꽃보기식물, 열매보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 돈나무",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=13340&menuId=PS00376",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0020",
+    "name": "듀란타",
+    "scientific_name": "Duranta reptans",
+    "category": "잎&꽃보기식물",
+    "attributes": {
+      "light": "높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 듀란타",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=14675&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0021",
+    "name": "드라세나 '송오브인디아'",
+    "scientific_name": "Dracaena reflexa 'Song of India'",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "낮은 광도(300~800 Lux), 중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 흙의 수분을 유지하되 물에 잠기지 않게 관리한다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 드라세나 '송오브인디아'",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=14694&detailSrch=&menuId=PS00376&pageIndex=7&pageSize=10&pageUnit=6&priceType=big&sDtlSrchFlclr=&sDtlSrchFmldecolr=&sDtlSrchGrwhstle=&sDtlSrchIgnSeason=&sDtlSrchLefcolr=&sDtlSrchLefmrk=&sDtlSrchLight=&sDtlSrchPriceType=&sDtlSrchText=&sDtlSrchType=sDtlSrchsCntntsSj&sDtlSrchWaterCycle=&sDtlSrchWinterLwet=&sText=&sType=sCntntsSj",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0022",
+    "name": "드라세나 '송오브자마이카'",
+    "scientific_name": "Dracaena reflexa 'Song of Jamaica'",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "낮은 광도(300~800 Lux), 중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 드라세나 '송오브자마이카'",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=14676&menuId=PS00376",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0023",
+    "name": "드라세나 '자바'",
+    "scientific_name": "Dracaena angustifolia 'Java'",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 드라세나 '자바'",
+      "uri": "https://nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=14696&detailSrch=&menuId=PS00376&pageIndex=1&pageSize=10&priceType=big&sDtlSrchFlclr=&sDtlSrchFmldecolr=&sDtlSrchGrwhstle=&sDtlSrchIgnSeason=&sDtlSrchLefcolr=&sDtlSrchLefmrk=&sDtlSrchLight=&sDtlSrchPriceType=&sDtlSrchText=&sDtlSrchType=sDtlSrchsCntntsSj&sDtlSrchWaterCycle=&sDtlSrchWinterLwet=&sText=%EB%93%9C&sType=sCntntsSj",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0024",
+    "name": "드라세나 '콤팩타'",
+    "scientific_name": "Dracaena deremensis 'Virens Compacta'",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "낮은 광도(300~800 Lux), 중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 흙의 수분을 유지하되 물에 잠기지 않게 관리한다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40~70%",
+      "toxicity": "반려동물에게 유해할 수 있음. 반려견·반려묘별 구분은 원문에 없음."
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 드라세나 '콤팩타'",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=14697&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0025",
+    "name": "드라세나 '트리컬러 레인보우'",
+    "scientific_name": "Dracaena concinna 'Tricolor Rainbow'",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 흙의 수분을 유지하되 물에 잠기지 않게 관리한다. 겨울: 겉흙이 마르면 물을 충분히 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 드라세나 '트리컬러 레인보우'",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=14698&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0026",
+    "name": "드라세나 드라코",
+    "scientific_name": "Dracaena draco",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": "반려동물에게 유해할 수 있음. 반려견·반려묘별 구분은 원문에 없음."
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 드라세나 드라코",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=14688&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0027",
+    "name": "드라세나 마지나타",
+    "scientific_name": "Dracaena marginata",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 흙의 수분을 유지하되 물에 잠기지 않게 관리한다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 드라세나 마지나타",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=14689&menuId=PS00376",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0028",
+    "name": "드라세나 맛상게아나",
+    "scientific_name": "Dracaena fragrans var. massangeana",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "낮은 광도(300~800 Lux), 중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 흙의 수분을 유지하되 물에 잠기지 않게 관리한다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40~70%",
+      "toxicity": "반려동물에게 유해할 수 있음. 반려견·반려묘별 구분은 원문에 없음."
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 드라세나 맛상게아나",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=14690&detailSrch=&menuId=PS00376&pageIndex=8&pageSize=10&pageUnit=6&priceType=big&sDtlSrchFlclr=&sDtlSrchFmldecolr=&sDtlSrchGrwhstle=&sDtlSrchIgnSeason=&sDtlSrchLefcolr=&sDtlSrchLefmrk=&sDtlSrchLight=&sDtlSrchPriceType=&sDtlSrchText=&sDtlSrchType=sDtlSrchsCntntsSj&sDtlSrchWaterCycle=&sDtlSrchWinterLwet=&sText=&sType=sCntntsSj",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0029",
+    "name": "드라세나 수르쿨로사",
+    "scientific_name": "Dracaena surculosa (D. godseffiana)",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "낮은 광도(300~800 Lux), 중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40% 미만",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 드라세나 수르쿨로사",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=14695&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0030",
+    "name": "디펜바키아 '마리안느'",
+    "scientific_name": "Dieffenbachia 'Marianne'",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 디펜바키아 '마리안느'",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=14700&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0031",
+    "name": "디펜바키아 '트로픽스노우'",
+    "scientific_name": "Dieffenbachia amoena 'Tropic snow'",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 디펜바키아 '트로픽스노우'",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=14713&detailSrch=&menuId=PS00376&pageIndex=1&pageSize=10&priceType=big&sDtlSrchFlclr=&sDtlSrchFmldecolr=&sDtlSrchGrwhstle=&sDtlSrchIgnSeason=&sDtlSrchLefcolr=&sDtlSrchLefmrk=&sDtlSrchLight=&sDtlSrchPriceType=&sDtlSrchText=&sDtlSrchType=sDtlSrchsCntntsSj&sDtlSrchWaterCycle=&sDtlSrchWinterLwet=&sText=%EB%94%94%ED%8E%9C%EB%B0%94%ED%82%A4%EC%95%84&sType=sCntntsSj",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0032",
+    "name": "떡갈잎 고무나무",
+    "scientific_name": "Ficus lyrata",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 떡갈잎 고무나무",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.mo?cntntsNo=14911&detailSrch=&menuId=PS00376&pageIndex=1&pageSize=10&priceType=big&sDtlSrchFlclr=&sDtlSrchFmldecolr=&sDtlSrchGrwhstle=&sDtlSrchIgnSeason=&sDtlSrchLefcolr=&sDtlSrchLefmrk=&sDtlSrchLight=&sDtlSrchPriceType=&sDtlSrchText=&sDtlSrchType=sDtlSrchsCntntsSj&sDtlSrchWaterCycle=&sDtlSrchWinterLwet=&sText=%2525252525EA%2525252525B3%2525252525A0%2525252525EB%2525252525AC%2525252525B4%2525252525EB%252525252582%252525252598%2525252525EB%2525252525AC%2525252525B4&sType=sCntntsSj",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0033",
+    "name": "루스커스",
+    "scientific_name": "Ruscus spp.",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 루스커스",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.mo?cntntsNo=16034&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0034",
+    "name": "목베고니아",
+    "scientific_name": "Begonia lucerna",
+    "category": "잎&꽃보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 흙의 수분을 유지하되 물에 잠기지 않게 관리한다. 겨울: 겉흙이 마르면 물을 충분히 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 목베고니아",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=16448&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0035",
+    "name": "몬스테라",
+    "scientific_name": "Monstera deliciosa",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 흙의 수분을 유지하되 물에 잠기지 않게 관리한다. 겨울: 겉흙이 마르면 물을 충분히 준다.",
+      "temperature": "16~20℃",
+      "humidity": "70% 이상",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 몬스테라",
+      "uri": "https://nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=16449&menuId=PS00376",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0036",
+    "name": "무늬쉐플레라'홍콩'",
+    "scientific_name": "Schefflera arboricola 'Hong Kong Variegata'",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 무늬쉐플레라'홍콩'",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=18593&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0037",
+    "name": "무늬팻츠헤데라",
+    "scientific_name": "Fatshedera lizei 'Variegata'",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 무늬팻츠헤데라",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=18602&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0038",
+    "name": "박쥐란",
+    "scientific_name": "Platycerium bifurcatum",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 흙의 수분을 유지하되 물에 잠기지 않게 관리한다. 겨울: 겉흙이 마르면 물을 충분히 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 박쥐란",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=18659&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0039",
+    "name": "반딧불털머위",
+    "scientific_name": "Farfugium japonicum",
+    "category": "잎&꽃보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "연중: 겉흙이 마르면 물을 충분히 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 반딧불털머위",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=18692&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0040",
+    "name": "벤자민고무나무",
+    "scientific_name": "Ficus benjamina",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "연중: 겉흙이 마르면 물을 충분히 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 벤자민고무나무",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=14919&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0041",
+    "name": "병솔나무",
+    "scientific_name": "Callistemon spp.",
+    "category": "잎&꽃보기식물",
+    "attributes": {
+      "light": "높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 병솔나무",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=15835&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0042",
+    "name": "산세베리아",
+    "scientific_name": "Sansevieria trifasciata",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "낮은 광도(300~800 Lux), 중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": "반려견·반려묘가 섭취하면 구토·설사를 일으킬 수 있음."
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 산세베리아",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=19448&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0043",
+    "name": "산세베리아 '골든 하니'",
+    "scientific_name": "Sansevieria trifasciata ‘Golden Hahnii’",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "낮은 광도(300~800 Lux), 중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 산세베리아 '골든 하니'",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=19449&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0044",
+    "name": "산호수",
+    "scientific_name": "Ardisia pusilla",
+    "category": "잎&꽃보기식물, 열매보기식물",
+    "attributes": {
+      "light": "낮은 광도(300~800 Lux), 중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 산호수",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=19451&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0045",
+    "name": "상록넉줄고사리 '후마타'",
+    "scientific_name": "Humata tyermannii (Davallia griffithiana)",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "낮은 광도(300~800 Lux), 중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 흙의 수분을 유지하되 물에 잠기지 않게 관리한다. 겨울: 겉흙이 마르면 물을 충분히 준다.",
+      "temperature": "16~20℃",
+      "humidity": "70% 이상",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 상록넉줄고사리 '후마타'",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.mo?cntntsNo=19453&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0046",
+    "name": "새우란",
+    "scientific_name": "Calanthe discolor spp.",
+    "category": "꽃보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 새우란",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=19455&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0047",
+    "name": "석창포",
+    "scientific_name": "Acorus gramineus",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 흙의 수분을 유지하되 물에 잠기지 않게 관리한다. 겨울: 겉흙이 마르면 물을 충분히 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 석창포",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=19457&menuId=PS00376",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0048",
+    "name": "소피아 고무나무",
+    "scientific_name": "Ficus elastica 'Sofia'",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "낮은 광도(300~800 Lux), 중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": null,
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 소피아 고무나무",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=19703&detailSrch=&menuId=PS00376&pageIndex=3&pageSize=10&priceType=big&sDtlSrchFlclr=&sDtlSrchFmldecolr=&sDtlSrchGrwhstle=&sDtlSrchIgnSeason=&sDtlSrchLefcolr=&sDtlSrchLefmrk=&sDtlSrchLight=&sDtlSrchPriceType=&sDtlSrchText=%E3%85%85&sDtlSrchType=sDtlSrchsCntntsSj&sDtlSrchWaterCycle=&sDtlSrchWinterLwet=&sText=&sType=sCntntsSj",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0049",
+    "name": "수박필레아",
+    "scientific_name": "Pilea cadierei",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 수박필레아",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=19709&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0050",
+    "name": "수염 틸란드시아",
+    "scientific_name": "Tillandsia usneoides",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "공중의 수분을 흡수하므로 마르지 않도록 자주 분무한다.",
+      "temperature": "21~25℃",
+      "humidity": "70% 이상",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 수염 틸란드시아",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=19711&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0051",
+    "name": "숙근이베리스",
+    "scientific_name": "Iberis sempervirens",
+    "category": "잎&꽃보기식물",
+    "attributes": {
+      "light": "높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 숙근이베리스",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=19713&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0052",
+    "name": "스킨답서스",
+    "scientific_name": "Epipremnum aureum",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "낮은 광도(300~800 Lux), 중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": "칼슘옥살레이트에 의한 반려동물 독성이 있음. 반려견·반려묘별 구분은 원문에 없음."
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 스킨답서스",
+      "uri": "https://nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=19716&detailSrch=&menuId=PS00376&pageIndex=1&pageSize=10&priceType=big&sDtlSrchFlclr=&sDtlSrchFmldecolr=&sDtlSrchGrwhstle=&sDtlSrchIgnSeason=&sDtlSrchLefcolr=&sDtlSrchLefmrk=&sDtlSrchLight=&sDtlSrchPriceType=&sDtlSrchText=&sDtlSrchType=sDtlSrchsCntntsSj&sDtlSrchWaterCycle=&sDtlSrchWinterLwet=&sText=%EC%8A%A4%ED%82%A8%EB%8B%B5%EC%84%9C%EC%8A%A4&sType=sCntntsSj",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0053",
+    "name": "스파티필룸",
+    "scientific_name": "Spathiphyllum wallisii",
+    "category": "잎&꽃보기식물",
+    "attributes": {
+      "light": "낮은 광도(300~800 Lux), 중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 스파티필룸",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=19717&menuId=PS00376",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0054",
+    "name": "스파티필룸 (광엽)",
+    "scientific_name": "Spathiphyllum 'Clevelandii'",
+    "category": "잎&꽃보기식물",
+    "attributes": {
+      "light": "낮은 광도(300~800 Lux), 중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 스파티필룸 (광엽)",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=19718&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0055",
+    "name": "시서스",
+    "scientific_name": "Cissus antarctica",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "연중: 겉흙이 마르면 물을 충분히 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 시서스",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=19719&menuId=PS00376",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0056",
+    "name": "시클라멘",
+    "scientific_name": "Cyclamen persicum",
+    "category": "잎&꽃보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄: 겉흙이 마르면 물을 충분히 준다. 여름: 원문에 물주기 정보 없음. 가을·겨울: 겉흙이 마르면 물을 충분히 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 시클라멘",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=19707&detailSrch=&menuId=PS00376&pageIndex=1&pageSize=10&priceType=big&sDtlSrchFlclr=&sDtlSrchFmldecolr=&sDtlSrchGrwhstle=&sDtlSrchIgnSeason=&sDtlSrchLefcolr=&sDtlSrchLefmrk=&sDtlSrchLight=&sDtlSrchPriceType=&sDtlSrchText=&sDtlSrchType=sDtlSrchsCntntsSj&sDtlSrchWaterCycle=&sDtlSrchWinterLwet=&sText=%EC%8B%9C&sType=sCntntsSj",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0057",
+    "name": "심비디움",
+    "scientific_name": "Cymbidium spp.",
+    "category": "잎&꽃보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄: 흙이 거의 다 마른 다음 물을 넉넉하게 준다. 여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "70% 이상",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 심비디움",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=19712&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0058",
+    "name": "아글라오네마",
+    "scientific_name": "Aglaonema commutatum",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "낮은 광도(300~800 Lux), 중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 아글라오네마",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=19469&detailSrch=&menuId=PS00376&pageIndex=15&pageSize=10&pageUnit=8&priceType=big&sDtlSrchFlclr=&sDtlSrchFmldecolr=&sDtlSrchGrwhstle=&sDtlSrchIgnSeason=&sDtlSrchLefcolr=&sDtlSrchLefmrk=&sDtlSrchLight=&sDtlSrchPriceType=&sDtlSrchText=&sDtlSrchType=sDtlSrchsCntntsSj&sDtlSrchWaterCycle=&sDtlSrchWinterLwet=&sText=&sType=sCntntsSj",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0059",
+    "name": "아라우카리아",
+    "scientific_name": "Araucaria heterophylla",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 아라우카리아",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=19466&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0060",
+    "name": "아레카야자",
+    "scientific_name": "Chrysalidocarpus lutescens",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "연중: 겉흙이 마르면 물을 충분히 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 아레카야자",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=19465&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0061",
+    "name": "아마릴리스",
+    "scientific_name": "Hippeastrum hybridum",
+    "category": "꽃보기식물",
+    "attributes": {
+      "light": "높은 광도(1,500~10,000 Lux)",
+      "watering": "봄: 겉흙이 마르면 물을 충분히 준다. 여름: 흙의 수분을 유지하되 물에 잠기지 않게 관리한다. 가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 아마릴리스",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=19470&detailSrch=&menuId=PS00376&pageIndex=1&pageSize=10&pageUnit=6&priceType=&sDtlSrchFlclr=&sDtlSrchFmldecolr=&sDtlSrchGrwhstle=&sDtlSrchIgnSeason=&sDtlSrchLefcolr=&sDtlSrchLefmrk=&sDtlSrchLight=&sDtlSrchPriceType=&sDtlSrchText=Z&sDtlSrchType=sDtlSrchsCntntsSj&sDtlSrchWaterCycle=&sDtlSrchWinterLwet=&sText=&sType=sCntntsSj",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0062",
+    "name": "아스플레니움",
+    "scientific_name": "Asplenium nidus",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": null,
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 아스플레니움",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=19463&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0063",
+    "name": "아왜나무",
+    "scientific_name": "Viburnum odoratissimum var. awabuki",
+    "category": "잎&꽃보기식물, 열매보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 아왜나무",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=19462&menuId=PS00376",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0064",
+    "name": "아이비",
+    "scientific_name": "Hedera helix",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 흙의 수분을 유지하되 물에 잠기지 않게 관리한다. 겨울: 겉흙이 마르면 물을 충분히 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 아이비",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=19461&menuId=PS00376&totalSearchYn=Y.",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0065",
+    "name": "아프리칸 바이올렛",
+    "scientific_name": "Saintpaulia spp.",
+    "category": "잎&꽃보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "연중: 겉흙이 마르면 물을 충분히 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 아프리칸 바이올렛",
+      "uri": "https://nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=18691&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0066",
+    "name": "안수리움",
+    "scientific_name": "Anthurium andraeanum",
+    "category": "잎&꽃보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "연중: 겉흙이 마르면 물을 충분히 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 안수리움",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=18660&detailSrch=&menuId=PS00376&pageIndex=2&pageSize=10&priceType=big&sDtlSrchFlclr=&sDtlSrchFmldecolr=&sDtlSrchGrwhstle=&sDtlSrchIgnSeason=&sDtlSrchLefcolr=&sDtlSrchLefmrk=&sDtlSrchLight=&sDtlSrchPriceType=&sDtlSrchText=%E3%85%87&sDtlSrchType=sDtlSrchsCntntsSj&sDtlSrchWaterCycle=&sDtlSrchWinterLwet=&sText=&sType=sCntntsSj",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0067",
+    "name": "알로카시아 아마조니카",
+    "scientific_name": "Alocasia amazonica",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 흙의 수분을 유지하되 물에 잠기지 않게 관리한다. 겨울: 겉흙이 마르면 물을 충분히 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 알로카시아 아마조니카",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=18658&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0068",
+    "name": "알로카시아 쿠쿨라타",
+    "scientific_name": "Alocasia cucullata",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 흙의 수분을 유지하되 물에 잠기지 않게 관리한다. 겨울: 겉흙이 마르면 물을 충분히 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 알로카시아 쿠쿨라타",
+      "uri": "https://nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=19471&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0069",
+    "name": "엘라티올 베고니아",
+    "scientific_name": "Begonia X hiemalis",
+    "category": "잎&꽃보기식물",
+    "attributes": {
+      "light": "높은 광도(1,500~10,000 Lux)",
+      "watering": "연중: 겉흙이 마르면 물을 충분히 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 엘라티올 베고니아",
+      "uri": "https://nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=18598&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0070",
+    "name": "온시디움",
+    "scientific_name": "Oncidium spp.",
+    "category": "꽃보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄: 흙이 거의 다 마른 다음 물을 넉넉하게 준다. 여름: 겉흙이 마르면 물을 충분히 준다. 가을·겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 온시디움",
+      "uri": "https://nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=18589&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0071",
+    "name": "은사철나무",
+    "scientific_name": "Euonymus japonica 'Albomarginata'",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "연중: 겉흙이 마르면 물을 충분히 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 은사철나무",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=18581&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0072",
+    "name": "인삼벤자민",
+    "scientific_name": "Ficus microcarpa 'Ginseng'",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 인삼벤자민",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=17748&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0073",
+    "name": "자금우",
+    "scientific_name": "Ardisia japonica",
+    "category": "잎&꽃보기식물, 열매보기식물",
+    "attributes": {
+      "light": "낮은 광도(300~800 Lux), 중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 자금우",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=17741&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0074",
+    "name": "자란",
+    "scientific_name": "Bletilla striata",
+    "category": "잎&꽃보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux)",
+      "watering": "봄: 흙이 거의 다 마른 다음 물을 넉넉하게 준다. 여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 자란",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=17393&detailSrch=&menuId=PS00376&pageIndex=1&pageSize=10&pageUnit=6&priceType=&sDtlSrchFlclr=&sDtlSrchFmldecolr=&sDtlSrchGrwhstle=&sDtlSrchIgnSeason=&sDtlSrchLefcolr=&sDtlSrchLefmrk=&sDtlSrchLight=&sDtlSrchPriceType=&sDtlSrchText=Z&sDtlSrchType=sDtlSrchsCntntsSj&sDtlSrchWaterCycle=&sDtlSrchWinterLwet=&sText=&sType=sCntntsSj",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0075",
+    "name": "접란",
+    "scientific_name": "Chlorophytum comosum",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 접란",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=16447&detailSrch=&menuId=PS00376&pageIndex=1&pageSize=10&priceType=big&sDtlSrchFlclr=&sDtlSrchFmldecolr=&sDtlSrchGrwhstle=&sDtlSrchIgnSeason=&sDtlSrchLight=&sDtlSrchPriceType=&sDtlSrchText=&sDtlSrchType=sDtlSrchsCntntsSj&sDtlSrchWaterCycle=&sDtlSrchWinterLwet=&sText=%EC%A0%91%EB%9E%80&sType=sCntntsSj",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0076",
+    "name": "제라니움",
+    "scientific_name": "Pelargonium hortorum",
+    "category": "잎&꽃보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 제라니움",
+      "uri": "https://nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=16248&detailSrch=&menuId=PS00376&pageIndex=1&pageSize=10&priceType=big&sDtlSrchFlclr=&sDtlSrchFmldecolr=&sDtlSrchGrwhstle=&sDtlSrchIgnSeason=&sDtlSrchLefcolr=&sDtlSrchLefmrk=&sDtlSrchLight=&sDtlSrchPriceType=&sDtlSrchText=%E3%85%88&sDtlSrchType=sDtlSrchsCntntsSj&sDtlSrchWaterCycle=&sDtlSrchWinterLwet=&sText=&sType=sCntntsSj",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0077",
+    "name": "종려죽",
+    "scientific_name": "Rhapis humilis",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 종려죽",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=16035&detailSrch=&menuId=PS00376&pageIndex=1&pageSize=10&pageUnit=10&sDtlSrchText=Z&sDtlSrchType=sDtlSrchsCn&sText=&sType=sCntntsSj",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0078",
+    "name": "치자나무",
+    "scientific_name": "Gardenia jasminoides",
+    "category": "잎&꽃보기식물, 열매보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄: 흙이 거의 다 마른 다음 물을 넉넉하게 준다. 여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 치자나무",
+      "uri": "https://nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=12989&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0079",
+    "name": "칼라데아 마코야나",
+    "scientific_name": "Calathea makoyana",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 칼라데아 마코야나",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=15829&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0080",
+    "name": "칼라디움",
+    "scientific_name": "Caladium bicolor (hortulantum) Vent.",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 칼라디움",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=14914&menuId=PS00376",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0081",
+    "name": "칼랑코에",
+    "scientific_name": "Kalanchoe blossfeldiana",
+    "category": "꽃보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 칼랑코에",
+      "uri": "https://nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=13319&detailSrch=&menuId=PS00376&pageIndex=1&pageSize=10&priceType=big&sDtlSrchFlclr=&sDtlSrchFmldecolr=&sDtlSrchGrwhstle=&sDtlSrchIgnSeason=&sDtlSrchLefcolr=&sDtlSrchLefmrk=&sDtlSrchLight=&sDtlSrchPriceType=&sDtlSrchText=&sDtlSrchType=sDtlSrchsCntntsSj&sDtlSrchWaterCycle=&sDtlSrchWinterLwet=&sText=%EC%B9%BC&sType=sCntntsSj",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0082",
+    "name": "크로톤",
+    "scientific_name": "Codiaeum variegatum var. pictum",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 크로톤",
+      "uri": "https://nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=13261&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0083",
+    "name": "털머위",
+    "scientific_name": "Farfugium japonicum",
+    "category": "잎&꽃보기식물",
+    "attributes": {
+      "light": "낮은 광도(300~800 Lux), 중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "연중: 겉흙이 마르면 물을 충분히 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 털머위",
+      "uri": "https://nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=13001&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0084",
+    "name": "틸란드시아",
+    "scientific_name": "Tillandsia cyanea",
+    "category": "잎&꽃보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 틸란드시아",
+      "uri": "https://nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=13004&detailSrch=&menuId=PS00376&pageIndex=1&pageSize=10&priceType=big&sDtlSrchFlclr=&sDtlSrchFmldecolr=&sDtlSrchGrwhstle=&sDtlSrchIgnSeason=&sDtlSrchLefcolr=&sDtlSrchLefmrk=&sDtlSrchLight=&sDtlSrchPriceType=&sDtlSrchText=%E3%85%8C&sDtlSrchType=sDtlSrchsCntntsSj&sDtlSrchWaterCycle=&sDtlSrchWinterLwet=&sText=&sType=sCntntsSj",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0085",
+    "name": "파키라",
+    "scientific_name": "Pachira aquatica",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 파키라",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=13248&menuId=PS00376",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0086",
+    "name": "파피오페딜럼",
+    "scientific_name": "Paphiopedilum hybrids",
+    "category": "잎&꽃보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux)",
+      "watering": "봄: 흙이 거의 다 마른 다음 물을 넉넉하게 준다. 여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "70% 이상",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 파피오페딜럼",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=13247&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0087",
+    "name": "팔레놉시스(호접란)",
+    "scientific_name": "Phalaenopsis spp.",
+    "category": "잎&꽃보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 팔레놉시스(호접란)",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=13245&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0088",
+    "name": "팔손이나무",
+    "scientific_name": "Fatsia japonica",
+    "category": "잎&꽃보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 팔손이나무",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=13244&menuId=PS00376",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0089",
+    "name": "피라칸사",
+    "scientific_name": "Pyracantha coccinea",
+    "category": "잎&꽃보기식물, 열매보기식물",
+    "attributes": {
+      "light": "높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름: 흙의 수분을 유지하되 물에 잠기지 않게 관리한다. 가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "16~20℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 피라칸사",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.mo?cntntsNo=13209&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0090",
+    "name": "피토니아 화이트스타",
+    "scientific_name": "Fittonia verschaffelti 'White Star'",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 피토니아 화이트스타",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=13197&menuId=PS00376",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0091",
+    "name": "필레아 글라우카(타라, 블루체인)",
+    "scientific_name": "Pilea grauca",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 필레아 글라우카(타라, 블루체인)",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=13193&menuId=PS00376",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0092",
+    "name": "필로덴드론 '선라이트'",
+    "scientific_name": "Philodendron 'Sunlight'",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 필로덴드론 '선라이트'",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=13190&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0093",
+    "name": "필로덴드론 '제나두'",
+    "scientific_name": "Philodendron 'Xanadu'",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 필로덴드론 '제나두'",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=13187&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0094",
+    "name": "필로덴드론 고엘디",
+    "scientific_name": "Philodendron goeldii",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 필로덴드론 고엘디",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=13192&menuId=PS00376",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0095",
+    "name": "필로덴드론 셀로움",
+    "scientific_name": "Philodendron selloum",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 필로덴드론 셀로움",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=13189&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0096",
+    "name": "필로덴드론 옥시카르디움",
+    "scientific_name": "Philodendron oxycardium",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 필로덴드론 옥시카르디움",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=13188&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0097",
+    "name": "해마리아",
+    "scientific_name": "Haemaria discolor var. dawsoniana",
+    "category": "잎&꽃보기식물",
+    "attributes": {
+      "light": "낮은 광도(300~800 Lux), 중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 흙의 수분을 유지하되 물에 잠기지 않게 관리한다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 해마리아",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=12987&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0098",
+    "name": "행운목",
+    "scientific_name": "Dracaena fragrans",
+    "category": "잎보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 흙의 수분을 유지하되 물에 잠기지 않게 관리한다. 겨울: 겉흙이 마르면 물을 충분히 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 행운목",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=12983&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0099",
+    "name": "호야",
+    "scientific_name": "Hoya carnosa",
+    "category": "잎&꽃보기식물",
+    "attributes": {
+      "light": "중간 광도(800~1,500 Lux), 높은 광도(1,500~10,000 Lux)",
+      "watering": "봄·여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 호야",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=12986&menuId=PS00376&totalSearchYn=Y",
+      "page": null
+    }
+  },
+  {
+    "plant_id": "plant-0100",
+    "name": "흰꽃나도사프란",
+    "scientific_name": "Zephyranthes candida",
+    "category": "잎&꽃보기식물",
+    "attributes": {
+      "light": "높은 광도(1,500~10,000 Lux)",
+      "watering": "봄: 흙이 거의 다 마른 다음 물을 넉넉하게 준다. 여름·가을: 겉흙이 마르면 물을 충분히 준다. 겨울: 흙이 거의 다 마른 다음 물을 넉넉하게 준다.",
+      "temperature": "21~25℃",
+      "humidity": "40~70%",
+      "toxicity": null
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "농촌진흥청 농사로 - 흰꽃나도사프란",
+      "uri": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=12920&menuId=PS00376",
+      "page": null
+    }
+  }
+]
+

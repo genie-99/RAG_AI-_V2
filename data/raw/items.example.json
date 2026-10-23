@@ -1,0 +1,22 @@
+[
+  {
+    "plant_id": "plant-0001",
+    "name": "식물 이름",
+    "scientific_name": "식물의 진짜 이름",
+    "category" : "카테고리",
+    "attributes": {
+      "light" : "일광",
+      "watering" : "물주기",
+      "temperature" : "적정 온도",
+      "humidity" : "적정 습도",
+      "toxicity" : "반려견, 묘에게 독성이 있는지"
+    },
+    "source": {
+      "source_type": "item_metadata",
+      "title": "입력 형식 예시",
+      "uri": "data/raw/items.example.json#example-001",
+      "page": null
+    }
+  }
+]
+
